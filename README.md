@@ -9,7 +9,7 @@
 - Building tools for OT network automation
 
 ## Tech I work with:
-- **Networking:** MikroTik, Phoenix Contact, Robustel, VLANs, routing and switching
+- **Networking:** MikroTik, Phoenix Contact, Moxa, Robustel, VLANs, routing and switching
 - **Security:** Firewalls, VPNs, Graylog (SIEM), Zero Trust Remote Access
 - **Automation:** PowerShell, Python (learning), Ansible (planned)
 - **Cloud:** Azure

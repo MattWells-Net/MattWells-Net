@@ -4,8 +4,7 @@
 
 ## What I'm working on:
 - CCNA certification
-- PowerShell/Python automation (learning) for network engineering
-- Documenting my journey on Youtube
+- PowerShell/Python automation for network engineering
 - Building tools for OT network automation
 
 ## Tech I work with:

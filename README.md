@@ -1,4 +1,4 @@
-## Hi, I'm Matt 👋
+## Matt Wells
 
 **Network Engineer | OT NOC/SOC | Automation**
 
@@ -17,7 +17,7 @@
 ## Current focus:
 Working towards the CCNA and building public documentation of everything I learn. 
 
-Check out my repos below 👇
+See my repos below if interested.
 <!--
 **MattWells-Net/MattWells-Net** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

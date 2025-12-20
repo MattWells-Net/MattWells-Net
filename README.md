@@ -17,7 +17,7 @@
 ## Current focus:
 Working towards the CCNA and building public documentation of everything I learn. 
 
-See my repos below if interested.
+See my repos below.
 <!--
 **MattWells-Net/MattWells-Net** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
